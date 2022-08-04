@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Slice&&&&&color=FAF0E6&&height=200&section=header&text=Kang%20Ji%20Yoon&fontSize=90&fontColor=7DA2AD&fontAlignY=50)
 
 <!--
 **ji-yoon-kang/ji-yoon-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
